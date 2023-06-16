@@ -24,3 +24,14 @@ OP Command: find . -type f -exec file {} \; | grep text | cut -d ':' -f 1 | whil
 
 Windows: tree /f
 
+OP Command: 
+
+
+Get-ChildItem . -Recurse | 
+    Where-Object { ! $_.PSIsContainer } |
+    ForEach-Object { 
+        Write-Host "File: $($_.FullName)"; 
+        Get-Content $_.FullName 
+    }
+
+
