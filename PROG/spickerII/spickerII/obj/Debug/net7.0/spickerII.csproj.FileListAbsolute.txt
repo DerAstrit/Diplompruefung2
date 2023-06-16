@@ -1,0 +1,15 @@
+C:\Users\joelz\source\repos\spickerII\spickerII\bin\Debug\net7.0\spickerII.exe
+C:\Users\joelz\source\repos\spickerII\spickerII\bin\Debug\net7.0\spickerII.deps.json
+C:\Users\joelz\source\repos\spickerII\spickerII\bin\Debug\net7.0\spickerII.runtimeconfig.json
+C:\Users\joelz\source\repos\spickerII\spickerII\bin\Debug\net7.0\spickerII.dll
+C:\Users\joelz\source\repos\spickerII\spickerII\bin\Debug\net7.0\spickerII.pdb
+C:\Users\joelz\source\repos\spickerII\spickerII\obj\Debug\net7.0\spickerII.csproj.AssemblyReference.cache
+C:\Users\joelz\source\repos\spickerII\spickerII\obj\Debug\net7.0\spickerII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelz\source\repos\spickerII\spickerII\obj\Debug\net7.0\spickerII.AssemblyInfoInputs.cache
+C:\Users\joelz\source\repos\spickerII\spickerII\obj\Debug\net7.0\spickerII.AssemblyInfo.cs
+C:\Users\joelz\source\repos\spickerII\spickerII\obj\Debug\net7.0\spickerII.csproj.CoreCompileInputs.cache
+C:\Users\joelz\source\repos\spickerII\spickerII\obj\Debug\net7.0\spickerII.dll
+C:\Users\joelz\source\repos\spickerII\spickerII\obj\Debug\net7.0\refint\spickerII.dll
+C:\Users\joelz\source\repos\spickerII\spickerII\obj\Debug\net7.0\spickerII.pdb
+C:\Users\joelz\source\repos\spickerII\spickerII\obj\Debug\net7.0\spickerII.genruntimeconfig.cache
+C:\Users\joelz\source\repos\spickerII\spickerII\obj\Debug\net7.0\ref\spickerII.dll
