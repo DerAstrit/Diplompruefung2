@@ -1,6 +1,9 @@
 Könntest du mir bitte helfen, eine Vue.js 3-Anwendung mit der Composition API zu erstellen? Ich habe bereits einige Dateien im src-Ordner und ich möchte, dass du mir hilfst, sie zu vervollständigen. Die Anwendung sollte Bootstrap für das Styling verwenden und Pinia für den Zustandsmanagement. Jede Vue-Komponente muss unbedingt sowohl ein template als auch ein script enthalten. Könntest du mir bitte zeigen, wie ich das machen kann?
 Es muss jedes File aufgelistet werden.
 
+Könntest du mir bitte helfen, eine Vue.js 3-Anwendung mit der Composition API zu erstellen? Ich habe bereits einige Dateien im src-Ordner und ich möchte, dass du mir hilfst, sie zu vervollständigen. Die Anwendung sollte Bootstrap für das Styling verwenden und Pinia für den Zustandsmanagement. Jede Vue-Komponente muss sowohl ein template als auch ein script enthalten. Könntest du mir bitte zeigen, wie ich das machen kann? Auch wenn bereits ein Template vorhanden ist, möchte ich, dass du es einfügst und bei Bedarf erweiterst. Es muss jedes File aufgelistet werden.
+
+
 Aufgabe: 
 ........
 
