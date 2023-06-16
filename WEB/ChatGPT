@@ -1,1 +1,1 @@
-find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g
+find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'
