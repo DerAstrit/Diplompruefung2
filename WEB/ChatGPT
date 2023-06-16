@@ -1,4 +1,9 @@
 Mac OS: tree
 
+OP Command: find . -type f -exec file {} \; | grep text | cut -d ':' -f 1 | while read line; do echo "File: $line"; cat "$line"; done
+
+
+
+
 Windows: tree /f
 
